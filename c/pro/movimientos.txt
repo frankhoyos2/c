@@ -1,0 +1,23 @@
+
+
+
+
+
+--->resumen del movimiento
+accion transferencia
+Nrocuenta: 98765
+cuenta corriente
+saldo anterior: 7400
+nuevo saldo: 7600
+--->resumen del movimiento
+accion retiro
+Nrocuenta: 56789
+cuenta de ahorros
+saldo anterior: 3800
+nuevo saldo: 3000
+--->resumen del movimiento
+accion deposito
+Nrocuenta: 56789
+cuenta de ahorros
+saldo anterior: 3000
+nuevo saldo: 3800
